@@ -7,9 +7,9 @@
 ## Live Demo
 
 Try out the app online on Streamlit:  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ask-your-doc.streamlit.app/)
 
-Or just click here: [https://your-streamlit-app-link.streamlit.app](https://your-streamlit-app-link.streamlit.app)
+Or just click here: [https://your-streamlit-app-link.streamlit.app](https://ask-your-doc.streamlit.app/)
 
 ---
 
