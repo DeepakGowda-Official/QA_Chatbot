@@ -4,6 +4,15 @@
 
 ---
 
+## Live Demo
+
+Try out the app online on Streamlit:  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link.streamlit.app)
+
+Or just click here: [https://your-streamlit-app-link.streamlit.app](https://your-streamlit-app-link.streamlit.app)
+
+---
+
 ## Overview
 
 QA-Chatbot allows users to **upload documents locally** and interact with them through **natural language queries** using large language models (LLMs). Unlike typical RAG-based chatbots:
